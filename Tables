@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title> Tables</title>
+        <body>
+        <aside>
+        <table border="1">
+        <tr>
+            <th>NOMBRE</th> <TH>FORMATO</TH><th>CALIDAD</th>
+        </tr>
+        <TR>
+            <td rowspan="1">Video TIK TOK</td><TD>Mp4</TD><td>Buena</td></TR>
+        <tr>
+            <td rowspan = "1"> Whastapp Audio</td><td>OGG</td><td>Medio</td></tr>
+            </table>
+            </aside></body>
+</html>
